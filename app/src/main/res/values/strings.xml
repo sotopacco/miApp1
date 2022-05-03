@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">miApp1</string>
+    
+    <string name="Opcion1">Actividad 2</string>
+    <string name="Opcion2">Fragment tabhost</string>
+    <string name="Opcion3">Manipulando elementos por codigo</string>
+    <string name="Opcion4">Recycler View</string>
+    <string name="Salir">Salir</string>
+    <string name="tituloAplicacion">Mi primera app</string>
+    <string name="action_settings">Configuration</string>
+</resources>
